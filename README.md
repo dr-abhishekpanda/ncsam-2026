@@ -22,5 +22,5 @@ This is not an official website of CERT-In, MeitY or the Government of India. Re
 Lost money to a cyber fraud, or being threatened on a call? Call the national cybercrime helpline **1930** straight away, or report at https://cybercrime.gov.in.
 
 ## Prepared by
-Dr Abhishek Panda, Assistant Professor, Department of Community Medicine, Government Medical College & Hospital, Sundargarh, Odisha
+Dr. Abhishek Panda, MD, Assistant Professor in Community Medicine, Government Medical College & Hospital, Sundargarh, Odisha, India
 Email: dr.abhishekpanda.cm@gmail.com · WhatsApp: (+91) 700-890-9595
